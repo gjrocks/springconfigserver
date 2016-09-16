@@ -1,0 +1,7 @@
+# Spring properties
+spring:
+  application:
+     name: registration-server  # Service registers under this name 
+  cloud:
+     config:
+          uri: http://localhost:8888  
